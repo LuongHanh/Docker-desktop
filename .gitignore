@@ -3,4 +3,5 @@ node_modules/
 data/nodered/node_modules/
 data/nodered/.npm/
 data/nodered/.cache/
+data/grafana/grafana.db
 *.log
