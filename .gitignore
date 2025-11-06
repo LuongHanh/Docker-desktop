@@ -1,0 +1,6 @@
+# Bỏ qua thư mục tạm và node_modules
+node_modules/
+data/nodered/node_modules/
+data/nodered/.npm/
+data/nodered/.cache/
+*.log
